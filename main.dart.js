@@ -40854,7 +40854,7 @@ F.ahk.prototype={
 $0:function(){this.a.e=this.b},
 $S:1}
 F.IT.prototype={
-A:function(a,b){var s,r,q=null,p=t.t,o=R.dd(!1,!0,V.hz(T.bF(H.a([M.aS(q,T.bF(H.a([L.ac("\u30a2\u30f3\u30b1\u30fc\u30c8\u306b\u3054\u5354\u529b\u304f\u3060\u3055\u3044",A.bI(q,q,q,q,q,q,q,q,q,q,q,25,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)],p),C.c6,C.w,C.D,C.E),q,q,q,q,q,q,q,1/0),L.ac("??",A.bI(q,q,q,q,q,q,q,q,q,q,q,60,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)],p),C.v,C.w,C.D,C.E),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,q,new F.a2f(),q,q,q,q),n=L.h5(C.mv,250),m=L.ac("\u6821\u5185\u30de\u30c3\u30d7",q,q,q)
+A:function(a,b){var s,r,q=null,p=t.t,o=R.dd(!1,!0,V.hz(T.bF(H.a([M.aS(q,T.bF(H.a([L.ac("\u958b\u767a\u8005\u304b\u3089\u306e\u304a\u77e5\u3089\u305b",A.bI(q,q,q,q,q,q,q,q,q,q,q,25,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)],p),C.c6,C.w,C.D,C.E),q,q,q,q,q,q,q,1/0),L.ac("\u30a2\u30f3\u30b1\u30fc\u30c8\u306b\u3054\u5354\u529b\u304f\u3060\u3055\u3044",A.bI(q,q,q,q,q,q,q,q,q,q,q,60,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)],p),C.v,C.w,C.D,C.E),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,q,new F.a2f(),q,q,q,q),n=L.h5(C.mv,250),m=L.ac("\u6821\u5185\u30de\u30c3\u30d7",q,q,q)
 m=R.dd(!1,!0,V.hz(T.bF(H.a([n,M.aS(q,Q.hR(!1,q,q,!0,!1,q,q,!1,q,q,L.ac("\u6821\u5185\u30de\u30c3\u30d7\u304c\u8868\u793a\u3067\u304d\u307e\u3059",q,q,q),q,m,q),q,q,q,q,q,new V.aq(10,10,10,10),q,q)],p),C.v,C.w,C.D,C.E),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,q,new F.a2g(b),q,q,q,q)
 n=L.h5(C.Cz,250)
 s=L.ac("\u30b9\u30c6\u30fc\u30b8\u767a\u8868",q,q,q)
@@ -40913,7 +40913,7 @@ $1:function(a){return new D.os(null)},
 $S:473}
 F.a57.prototype={
 $0:function(){X.cs()
-A.aNk(G.abs("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Alpha 0.0.0.1 31af488 2021/07/01 18:23:03.09",this.a)},
+A.aNk(G.abs("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Alpha 0.0.0.1 3d9283d 2021/07/02  7:23:27.52",this.a)},
 $S:1}
 F.a58.prototype={
 $0:function(){X.cs()
