@@ -40310,7 +40310,7 @@ $1:function(a){return new D.ov(null)},
 $S:489}
 F.a53.prototype={
 $0:function(){X.cN()
-A.aMG(G.abn("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Alpha 0.0.0.1 ae74e90 2021/07/12 18:07:32.95",this.a)},
+A.aMG(G.abn("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Alpha 0.0.0.1 cec2ba1 2021/07/12 21:01:58.43",this.a)},
 $S:2}
 F.a54.prototype={
 $0:function(){X.cN()
