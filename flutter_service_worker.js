@@ -42,7 +42,7 @@ const RESOURCES = {
 "assets/images/maps/3F.png": "e984c036a93d299165f3639b78eef91b",
 "assets/images/maps/4F.png": "5171a0868ae5bd7c1a608b9ad52fbd6f",
 "assets/images/others/TimeTable.png": "90d87c022e6939b296a76825b9b610b1",
-"assets/NOTICES": "9213a40343e77294ed3c2db797105542",
+"assets/NOTICES": "5f05b50e819bb611328f8bbdc02b6965",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/slidingpuzzle/images/kousyou/1.png": "3bd6cc9b4f5f1075771367b60bc71a60",
 "assets/packages/slidingpuzzle/images/kousyou/10.png": "4f58faf82c2a227db51c977d1a5fcf38",
@@ -74,7 +74,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "62bfc9a432f85dfb2c8c0564f371a2e2",
 "index.html": "561d51be086a91123166bc4ba348f9b0",
 "/": "561d51be086a91123166bc4ba348f9b0",
-"main.dart.js": "5a3bac745bd1be5766c424b7ff3cbdb6",
+"main.dart.js": "0b1a1450e9397d3cdc6e862187905cf4",
 "manifest.json": "4a89203f52a7689216c75d80a8fbc0ee",
 "sw.js": "1ce0f19e10edc72af46cd8e9a511665e",
 "version.json": "2fcf4c9ce005e70bb8f4faaa587fa215"
