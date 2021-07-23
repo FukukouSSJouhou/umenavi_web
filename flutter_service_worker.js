@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/asset/seattle.jpg": "b3497f8c3eac62f0f696e9423be862a0",
-"assets/AssetManifest.json": "1d299147dee5a91521e177820fe6e133",
+"assets/AssetManifest.json": "f999bf485100d9c3a54b7bd32b88448e",
 "assets/assets/alipay.jpg": "2b9c6010ae04652649b978fe7a8d35c4",
 "assets/assets/material.png": "6daf304356cc010c1d23585c44041143",
 "assets/assets/wechat.png": "199febd121794aabdee55fb9d0aeec92",
@@ -42,7 +42,8 @@ const RESOURCES = {
 "assets/images/maps/3F.png": "e984c036a93d299165f3639b78eef91b",
 "assets/images/maps/4F.png": "5171a0868ae5bd7c1a608b9ad52fbd6f",
 "assets/images/others/TimeTable.png": "90d87c022e6939b296a76825b9b610b1",
-"assets/NOTICES": "5f05b50e819bb611328f8bbdc02b6965",
+"assets/images/others/TimeTable_2.png": "3cd35553fb0cc4bb488a45cf373a0fa5",
+"assets/NOTICES": "446226a842e5d929570e97c4d210b98d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/slidingpuzzle/images/kousyou/1.png": "3bd6cc9b4f5f1075771367b60bc71a60",
 "assets/packages/slidingpuzzle/images/kousyou/10.png": "4f58faf82c2a227db51c977d1a5fcf38",
@@ -74,7 +75,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "62bfc9a432f85dfb2c8c0564f371a2e2",
 "index.html": "561d51be086a91123166bc4ba348f9b0",
 "/": "561d51be086a91123166bc4ba348f9b0",
-"main.dart.js": "0b1a1450e9397d3cdc6e862187905cf4",
+"main.dart.js": "5588afb7601405c9ff0057d37287ce56",
 "manifest.json": "4a89203f52a7689216c75d80a8fbc0ee",
 "sw.js": "1ce0f19e10edc72af46cd8e9a511665e",
 "version.json": "2fcf4c9ce005e70bb8f4faaa587fa215"
