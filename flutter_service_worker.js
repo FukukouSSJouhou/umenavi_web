@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "170f5cd91d4dc779470d6b906998c94e",
-"main.dart.js": "e0212a1defc3e202ef959789e02a6afb",
+"main.dart.js": "352a0f7af2e0bee271f12da7e77058be",
 "index.html": "e023e25a2a50abef5ba617350449bdbb",
 "/": "e023e25a2a50abef5ba617350449bdbb",
 "manifest.json": "4a89203f52a7689216c75d80a8fbc0ee",
@@ -67,7 +67,7 @@ const RESOURCES = {
 "assets/packages/slidingpuzzle/images/kousyou/16.png": "d167bb5c2f3370c6e1155e56a7dea4fa",
 "assets/packages/slidingpuzzle/images/kousyou/2.png": "fe700bcc9f1d3536a0dab62679c06a4d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/NOTICES": "89a854ad6341c692f3952542829a3a87",
+"assets/NOTICES": "31974bf79e984ccc237cc00af80fb41b",
 "assets/FontManifest.json": "d76146777456e3ca96c7764cdab311bc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/fonts/Umenaviicon1.ttf": "2713c3f0b9de3ba85608412f1db0fa28",
