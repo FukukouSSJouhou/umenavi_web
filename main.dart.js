@@ -8660,16 +8660,15 @@ _.e=0
 _.f=!1
 _.a=null
 _.b=b
-_.c=null},apF:function apF(a){this.a=a},qx:function qx(a,b,c,d,e,f,g,h,i){var _=this
+_.c=null},apF:function apF(a){this.a=a},qx:function qx(a,b,c,d,e,f,g,h){var _=this
 _.c=a
-_.d=b
-_.e=c
-_.f=d
-_.r=e
-_.x=f
-_.y=g
-_.z=h
-_.a=i},a_B:function a_B(a){this.a=null
+_.e=b
+_.f=c
+_.r=d
+_.x=e
+_.y=f
+_.z=g
+_.a=h},a_B:function a_B(a){this.a=null
 this.b=a
 this.c=null},atg:function atg(a){this.a=a},atf:function atf(a){this.a=a},ate:function ate(){},yb:function yb(a,b,c){this.c=a
 this.d=b
@@ -43518,8 +43517,14 @@ $C:"$0",
 $R:0,
 $S:2}
 U.at4.prototype={
-$1:function(a){var s=this.a,r=s.a.c.a.c.h(0,"email"),q=s.a.c.a.c.h(0,"uid"),p=s.d,o=s.e,n=s.f,m=s.Q
-return new T.qx(q,r,p,o,n,s.z,m,H.a([],t.W),null)},
+$1:function(a){var s,r,q,p,o,n=this.a
+n.a.c.a.c.h(0,"email")
+s=n.a.c.a.c.h(0,"uid")
+r=n.d
+q=n.e
+p=n.f
+o=n.Q
+return new T.qx(s,r,q,p,n.z,o,H.a([],t.W),null)},
 $S:332}
 U.atc.prototype={
 $1:function(a){var s=null
@@ -43731,7 +43736,7 @@ return P.Q($async$$0,r)},
 $S:29}
 F.abw.prototype={
 $0:function(){X.cv()
-A.aYX(G.aEv("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Beta 0.0.2.1 Build 21",this.a)},
+A.aYX(G.aEv("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Beta 0.0.2.1 Build 22",this.a)},
 $S:2}
 F.abx.prototype={
 $0:function(){var s=0,r=P.R(t.P)
