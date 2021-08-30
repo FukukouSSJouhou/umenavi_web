@@ -36,7 +36,7 @@ const RESOURCES = {
 "assets/packages/slidingpuzzle/images/kousyou/14.png": "3d90573ddd1e0720c810fc2b0e7cc9ab",
 "assets/packages/slidingpuzzle/images/kousyou/4.png": "3bd6cc9b4f5f1075771367b60bc71a60",
 "assets/packages/slidingpuzzle/images/kousyou/5.png": "5e61635eb169d5dc0df59a94b3350603",
-"assets/NOTICES": "1d356fdb7255670b8308e2be5276c304",
+"assets/NOTICES": "2fc974a7a76f47b1e8b727e5a18fb3df",
 "assets/images/others/TimeTable_2.png": "3cd35553fb0cc4bb488a45cf373a0fa5",
 "assets/images/others/TimeTable.png": "90d87c022e6939b296a76825b9b610b1",
 "assets/images/maps/1F.drawio.svg": "05eb6b53fc3d8ec8f02ea4718c5be9dd",
@@ -76,9 +76,9 @@ const RESOURCES = {
 "manifest.json": "e499c089537786997cf2795aaa83fc50",
 "version.json": "2fcf4c9ce005e70bb8f4faaa587fa215",
 "sw.js": "1ce0f19e10edc72af46cd8e9a511665e",
-"main.dart.js": "a7c5d2d76edd820873463654b64c1cc5",
-"index.html": "95b54797ae9a9419c0a4049fae4e0fb9",
-"/": "95b54797ae9a9419c0a4049fae4e0fb9"
+"main.dart.js": "1000cc948b56d63a0864b785c10b451e",
+"index.html": "d8a964d450c018a437611c48ebac0284",
+"/": "d8a964d450c018a437611c48ebac0284"
 };
 
 // The application shell files that are downloaded before a service worker can
