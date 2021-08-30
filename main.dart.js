@@ -13946,7 +13946,7 @@ case C.dn:return"Pink"}return null},
 aSp:function(a){switch(a){case C.cg:return C.og
 case C.dj:return C.E6
 case C.dk:return C.E1
-case C.dl:return C.Eb
+case C.dl:return C.Ec
 case C.dm:return C.DV
 case C.dn:return C.Ea}return null},
 aSr:function(a){switch(a){case C.cg:return $.aCg()
@@ -44160,7 +44160,7 @@ return M.fN(E.ft(s,s,!0,s,s,s,1,s,s,s,!1,s,s,s,s,s,!0,s,s,s,s,L.ah("\u6587\u5316
 U.B_.prototype={
 ab:function(){return new U.Yb(C.j)}}
 U.Yb.prototype={
-E:function(a,b){var s=null,r=L.ei(C.Ee,s,320),q=L.ah("Tetris Pazzle",s,s,s,s,s,s,s),p=t.t
+E:function(a,b){var s=null,r=L.ei(C.Ef,s,320),q=L.ah("Tetris Pazzle",s,s,s,s,s,s,s),p=t.t
 return B.eX(H.a([R.iO(!1,!0,V.rR(T.df(H.a([r,M.b7(s,Q.i4(!1,s,s,!0,!1,s,s,!1,s,s,L.ah("\u4f55\u306e\u5909\u54f2\u3082\u306a\u3044\u30c6\u30c8\u30ea\u30b9",s,s,s,s,s,s,s),s,q,s),s,s,s,s,s,new V.aH(10,10,10,10),s,s)],p),C.E,C.F,C.X),s,s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new U.ar7(b),s,s,s)],p),s,s)}}
 U.ar7.prototype={
 $0:function(){X.cY()
@@ -44635,7 +44635,7 @@ F.wL.prototype={
 E:function(a,b){var s,r,q=null
 switch(this.c){case 0:s=t.t
 return R.iO(!1,!0,V.rR(T.df(H.a([M.b7(q,T.df(H.a([L.ah("\u958b\u767a\u8005\u304b\u3089\u306e\u304a\u77e5\u3089\u305b",q,q,q,q,A.c9(q,q,q,q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)],s),C.cG,C.F,C.X),q,q,q,q,q,q,q,1/0),L.ah("\u30a2\u30f3\u30b1\u30fc\u30c8\u306b\u3054\u5354\u529b\u304f\u3060\u3055\u3044",q,q,q,q,A.c9(q,q,q,q,q,q,q,q,q,q,q,30,q,q,q,q,!0,q,q,q,q,q,q,q),q,q)],s),C.E,C.F,C.X),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new F.apN(),q,q,q)
-case 1:s=L.ei(C.Ed,q,125)
+case 1:s=L.ei(C.Ee,q,125)
 r=L.ah("\u6587\u5316\u30bb\u30f3\u30bf\u30fc\u30de\u30c3\u30d7",q,q,q,q,q,q,q)
 return R.iO(!1,!0,V.rR(T.df(H.a([s,M.b7(q,Q.i4(!1,q,q,!0,!1,q,q,!1,q,q,L.ah("\u6587\u5316\u30bb\u30f3\u30bf\u30fc\u30de\u30c3\u30d7\u304c\u8868\u793a\u53ef\u80fd",q,q,q,q,q,q,q),q,r,q),q,q,q,q,q,new V.aH(10,10,10,10),q,q)],t.t),C.E,C.F,C.X),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new F.apO(b),q,q,q)
 case 2:s=L.ei(C.Ei,q,125)
@@ -44644,7 +44644,7 @@ return R.iO(!1,!0,V.rR(T.df(H.a([s,M.b7(q,Q.i4(!1,q,q,!0,!1,q,q,!1,q,q,L.ah("\u5
 case 3:s=L.ei(C.Eh,q,125)
 r=L.ah("\u30b9\u30c6\u30fc\u30b8\u767a\u8868",q,q,q,q,q,q,q)
 return R.iO(!1,!0,V.rR(T.df(H.a([s,M.b7(q,Q.i4(!1,q,q,!0,!1,q,q,!1,q,q,L.ah("\u767a\u8868\u306e\u5185\u5bb9\u304c\u8868\u793a\u3067\u304d\u307e\u3059",q,q,q,q,q,q,q),q,r,q),q,q,q,q,q,new V.aH(10,10,10,10),q,q)],t.t),C.E,C.F,C.X),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new F.apQ(b),q,q,q)
-case 4:s=L.ei(C.Eg,q,125)
+case 4:s=L.ei(C.Eb,q,125)
 r=L.ah("\u6295\u7968",q,q,q,q,q,q,q)
 return R.iO(!1,!0,V.rR(T.df(H.a([s,M.b7(q,Q.i4(!1,q,q,!0,!1,q,q,!1,q,q,L.ah("14:20~15:30",q,q,q,q,q,q,q),q,r,q),q,q,q,q,q,new V.aH(10,10,10,10),q,q)],t.t),C.E,C.F,C.X),q,q,q,q,q),q,!0,q,q,q,q,q,q,q,q,q,new F.apR(this,b),q,q,q)}}}
 F.apN.prototype={
@@ -44750,7 +44750,7 @@ return P.K($async$$0,r)},
 $S:26}
 F.ada.prototype={
 $0:function(){X.cY()
-A.b1t(G.aHh("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Release Candidate 0.0.2.5 Build 26",this.a)},
+A.b1t(G.aHh("images/icon/iconumenavi.svg",320,320),"2021 Fukushima High School SS club Jouhouhan","UMENAVI","Release Candidate 0.0.2.5 Build 27",this.a)},
 $S:2}
 F.adb.prototype={
 $0:function(){var s=0,r=P.L(t.P)
@@ -86992,12 +86992,12 @@ C.E6=new X.c6(58234,"MaterialIcons",null,!1)
 C.E8=new X.c6(58370,"MaterialIcons",null,!1)
 C.E9=new X.c6(58372,"MaterialIcons",null,!1)
 C.Ea=new X.c6(58566,"MaterialIcons",null,!1)
-C.Eb=new X.c6(58713,"MaterialIcons",null,!1)
+C.Eb=new X.c6(58586,"MaterialIcons",null,!1)
+C.Ec=new X.c6(58713,"MaterialIcons",null,!1)
 C.of=new X.c6(58737,"MaterialIcons",null,!0)
 C.og=new X.c6(58751,"MaterialIcons",null,!1)
-C.Ed=new X.c6(59392,"Umenaviicon1",null,!1)
-C.Ee=new X.c6(59393,"Umenaviicon1",null,!1)
-C.Eg=new X.c6(59395,"Umenaviicon1",null,!1)
+C.Ee=new X.c6(59392,"Umenaviicon1",null,!1)
+C.Ef=new X.c6(59393,"Umenaviicon1",null,!1)
 C.Eh=new X.c6(59396,"Umenaviicon1",null,!1)
 C.Ei=new X.c6(61486,"MaterialIcons",null,!0)
 C.Ek=new T.fA(C.V,null,null)
@@ -87006,8 +87006,8 @@ C.oh=new T.fA(C.w,null,null)
 C.kC=new T.fA(C.p,null,null)
 C.E7=new X.c6(58332,"MaterialIcons",null,!1)
 C.oj=new L.jC(C.E7,null,null,null)
-C.Ec=new X.c6(58727,"MaterialIcons",null,!1)
-C.El=new L.jC(C.Ec,null,null,null)
+C.Ed=new X.c6(58727,"MaterialIcons",null,!1)
+C.El=new L.jC(C.Ed,null,null,null)
 C.on=new P.aa3("ImageByteFormat.rawRgba")
 C.En=new X.tL("ImageRepeat.repeat")
 C.Eo=new X.tL("ImageRepeat.repeatX")
@@ -87138,8 +87138,8 @@ C.Ej=new X.c6(61518,"MaterialIcons",null,!1)
 C.oi=new L.jC(C.Ej,null,null,null)
 C.a1D=new L.ie("News",null,null,null,null,null,null,null)
 C.ys=new F.oz(C.oi,C.oi,C.a1D)
-C.Ef=new X.c6(59394,"Umenaviicon1",null,!1)
-C.om=new L.jC(C.Ef,null,null,null)
+C.Eg=new X.c6(59394,"Umenaviicon1",null,!1)
+C.om=new L.jC(C.Eg,null,null,null)
 C.a1G=new L.ie("Games",null,null,null,null,null,null,null)
 C.yt=new F.oz(C.om,C.om,C.a1G)
 C.E2=new X.c6(57804,"MaterialIcons",null,!1)
